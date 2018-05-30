@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for Kubernetes
+name: jenkinsx_python_http_quickstart
+version: v0.1.0
